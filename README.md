@@ -5,4 +5,4 @@ Integrantes del Grupo =
 -Agustin Picone
 -Enzo Carrizo
 -Grisel Madarnas
--Joaco 
+-Joaquin Agustin Salagre
