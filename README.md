@@ -1,4 +1,4 @@
-# Grupo-de-trabajo-ispc
+# GrupoDeIspc
 
 Integrantes del Grupo =
 
