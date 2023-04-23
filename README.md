@@ -2,7 +2,7 @@
 
 Integrantes del Grupo =
 
--Aguatin Picone
+-Agustin Picone
 -Enzo Carrizo
 -Grisel Madarnas
 -Joaco 
